@@ -1,5 +1,6 @@
 package del1;
 
+//Justins kommentardsfdsdsfsd
 public class Dice {
 	/**
 	 * Roll a 6 sided dice returning a value between 1 and 6.
