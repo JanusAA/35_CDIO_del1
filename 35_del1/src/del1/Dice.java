@@ -2,6 +2,7 @@ package del1;
 
 //Justins kommentardsfdsdsfsd
 //test af gitkommentar fra local Nikolaj
+//我的名字是冯麦龙呀哈哈哈
 public class Dice {
 	/**
 	 * Roll a 6 sided dice returning a value between 1 and 6.
